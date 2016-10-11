@@ -1,4 +1,7 @@
 This is a master edit
 This is a second master edit
+
 This is a branch edit
+
 This is a branch branch edit
+Edits never end!
